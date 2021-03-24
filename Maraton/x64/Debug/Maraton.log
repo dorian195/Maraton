@@ -1,0 +1,8 @@
+﻿  Funkcje.cpp
+  FunkcjeDrzewa.cpp
+  FunkcjeGlowne.cpp
+  FunkcjeListy.cpp
+  main.cpp
+  Generowanie kodu...
+D:\Uczelnia\PPK2k19\Maraton\Maraton\FunkcjeGlowne.cpp(26,51): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Maraton.vcxproj -> D:\Uczelnia\PPK2k19\Maraton\x64\Debug\Maraton.exe
